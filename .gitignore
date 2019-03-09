@@ -1,0 +1,11 @@
+*.gif
+*.tif
+*.jpeg
+*.bmp
+*.mp4
+*.mpeg
+*.avi
+*.pdf
+__pycache__/
+*.py[cod]
+*/__pycache__/
